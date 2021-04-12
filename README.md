@@ -6,8 +6,8 @@ Topic: introductionary elements to run a Spiking Neural Networks (SNNs) by using
 
 1. make the EBRAINS credentials to access the SpiNNaker server with this link https://spinn-20.cs.man.ac.uk/hub/home
 1. login on the Jupyter Lab interface
-1. clone the repository in a dedicated folder `<git clone https://github.com/albertoarturovergani/CNS-tutorial-2021>`
-1. run the [CNS tutorial notebook](CNS_tutorial.ipynb)
+1. clone the repository `<git clone https://github.com/albertoarturovergani/CNS-tutorial-2021>`
+1. Open the directory `<SpiNNaker/>` and run the [CNS tutorial notebook](CNS_tutorial.ipynb)
 
 ## Content:
 
