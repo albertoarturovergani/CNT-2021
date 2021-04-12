@@ -2,9 +2,18 @@
 
 Learning topic: introductionary elements to run a Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
 
+Main notebook: [CNS tutorial](CNS_tutorial.ipynb))
+
+## Instruction to use the material:
+
+- make the EBRAINS credentials to access the SpiNNaker server with this link https://spinn-20.cs.man.ac.uk/hub/home
+- login on the Jupyter Lab interface
+- clone the repository in a dedicated folder `<git clone https://github.com/albertoarturovergani/CNS-tutorial-2021>`
+- open [CNS tutorial notebook](CNS_tutorial.ipynb))
+
 ## Content:
 
-### SNNs design (Main notebook [CNS tutorial](CNS_tutorial.ipynb)
+### SNNs design 
 1. neurons
     - cell types
     - populations
