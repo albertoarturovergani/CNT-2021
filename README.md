@@ -4,7 +4,7 @@ Learning topic: introductionary elements to run a Spiking Neural Networks (SNNs)
 
 ## Content:
 
-### SNNs design
+### SNNs design (Main notebook [CNS tutorial](CNS_tutorial.ipynb)
 1. neurons
     - cell types
     - populations
@@ -26,8 +26,23 @@ Learning topic: introductionary elements to run a Spiking Neural Networks (SNNs)
 - model replicaton (i.e., reproduce results from paper)
 - parameters explorations
 
-##Links
+### expected take-home-points: 
+- import the simulator
+- setup the simulator
+- decide the cell types 
+- design the populations
+- define the synapse types
+- select the connection algorithm
+- make the projections 
+- idealize the stimulus
+- run the simulation
+- save the results
+- close the simulations
+- recover the result
+- postprocessing (visualization, statistics, etc)
 
-[PyNN](http://neuralensemble.org/docs/PyNN/index.html)
 
-[SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/)
+
+## Links
+- [PyNN](http://neuralensemble.org/docs/PyNN/index.html)
+- [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/)
