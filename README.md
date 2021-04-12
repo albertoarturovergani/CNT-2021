@@ -22,10 +22,10 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
     - projections
 
 ### network examples
-- [1D small network](eg_1D_small-network.ipynb)
-- [1D decaying network](eg_1D_decaying-network.ipynb)
-- [1D persistent network](eg_1D_persistent-network.ipynb)
-- [1D diverging network](eg_1D_diverging-network.ipynb)
+- [1D small network](SpiNNaker/eg_1D_small-network.ipynb)
+- [1D decaying network](SpiNNaker/eg_1D_decaying-network.ipynb)
+- [1D persistent network](SpiNNaker/eg_1D_persistent-network.ipynb)
+- [1D diverging network](SpiNNaker/eg_1D_diverging-network.ipynb)
 
 ### topics for an advanced class (aka, what there's not in this tutorial)
 - bio-realistic neural network 
