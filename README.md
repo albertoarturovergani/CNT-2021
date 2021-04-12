@@ -1,1 +1,1 @@
-# CNS-tutorial-2021
+# Computational Neuroscience Tutorial 2021
