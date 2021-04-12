@@ -6,7 +6,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 
 1. make the EBRAINS credentials to access the SpiNNaker server (https://spinn-20.cs.man.ac.uk/hub/login)
 1. login on the Jupyter Lab interface
-1. clone the repository `<git clone https://github.com/albertoarturovergani/CNS-tutorial-2021>`
+1. clone the repository `git clone https://github.com/albertoarturovergani/CNS-tutorial-2021`
 1. Open the directory `SpiNNaker/` and run the [CNS tutorial notebook](SpiNNaker/CNS_tutorial.ipynb)
 
 ## Content:
