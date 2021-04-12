@@ -33,6 +33,12 @@ Topic: introductionary elements to run a Spiking Neural Networks (SNNs) by using
 - model replicaton (i.e., reproduce results from paper)
 - parameters explorations
 
+### knowledge assumptions: 
+
+- basis of spiking neural network theory
+- familiarity with physical quatities related to electric circuits (e.g., voltages, conductances, currents, capacitances, etc)
+- basic python coding (numpy, work with dictionaries, some matplotlib tools, etc)
+
 ### expected take-home-points: 
 - import the simulator
 - setup the simulator
