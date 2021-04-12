@@ -36,7 +36,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 ### knowledge assumptions: 
 
 - basis of spiking neural network theory
-- familiarity with physical quatities related to electric circuits (e.g., voltages, conductances, currents, capacitances, etc)
+- familiarity with physical quatities related to electric circuits (e.g., voltages, conductances, currents, etc)
 - basic python coding (numpy, work with dictionaries, some matplotlib tools, etc)
 
 ### expected take-home-points: 
