@@ -1,6 +1,6 @@
 # Computational Neuroscience Tutorial 2021
 
-Topic: introductionary elements to run a Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
+Introductionary elements to run a Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
 
 ## Instruction to use the material:
 
