@@ -1,0 +1,71 @@
+        Placement Information by Vertex
+        ===============================
+
+Generated: Sun Apr 11 17:36:21 2021 for target machine '10.11.208.65'
+
+**** Vertex: 'AbstractPopulationVertex_1'
+Model: AbstractPopulationVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'AbstractPopulationVertex_2'
+Model: AbstractPopulationVertex
+Pop size: 20
+Machine Vertices: 
+  Slice 0:19 (20 atoms) 
+
+**** Vertex: 'thalamus'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus3'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus4'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus5'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus6'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus7'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus8'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus9'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+
+**** Vertex: 'thalamus10'
+Model: SpikeSourceArrayVertex
+Pop size: 80
+Machine Vertices: 
+  Slice 0:79 (80 atoms) 
+

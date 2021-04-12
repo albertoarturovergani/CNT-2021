@@ -1,0 +1,47 @@
+*** Vertices:
+Vertex 1D, size: 900, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 0, From 1D to 1D, model: ProjectionApplicationEdge
+
+Vertex 2D, size: 900, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 1, From 2D to 2D, model: ProjectionApplicationEdge
+
+Vertex 3D, size: 1000, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 2, From 3D to 3D, model: ProjectionApplicationEdge
+
+Vertex Sphere, size: 1000, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 3, From Sphere to Sphere, model: ProjectionApplicationEdge
+
+Vertex Cuboid, size: 1000, model: AbstractPopulationVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=255)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: projection edge 4, From Cuboid to Cuboid, model: ProjectionApplicationEdge
+
+Vertex Thalamus, size: 900, model: SpikeSourceArrayVertex
+    Constraints:
+        MaxVertexAtomsConstraint(size=9223372036854775807)
+    Outgoing Edge Partitions:
+    Partition SPIKE:
+        Edge: thalamus-exc connections, From Thalamus to 1D, model: ProjectionApplicationEdge
+        Edge: thalamus-exc connections, From Thalamus to 2D, model: ProjectionApplicationEdge
+        Edge: thalamus-exc connections, From Thalamus to 3D, model: ProjectionApplicationEdge
+        Edge: thalamus-exc connections, From Thalamus to Sphere, model: ProjectionApplicationEdge
+        Edge: thalamus-exc connections, From Thalamus to Cuboid, model: ProjectionApplicationEdge
+
