@@ -48,8 +48,8 @@ Topic: introductionary elements to run a Spiking Neural Networks (SNNs) by using
 - recover the result
 - postprocessing (visualization, statistics, etc)
 
-
-
 ## Links
 - [PyNN](http://neuralensemble.org/docs/PyNN/index.html)
 - [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/)
+- [EBRAINS](https://ebrains.eu/)
+- [The Human Brain Project](https://www.humanbrainproject.eu/en/)
