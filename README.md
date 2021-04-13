@@ -55,7 +55,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - run the simulation
 - save the results
 - close the simulations
-- recover the result
+- recover the results
 - postprocessing (visualization, statistics, etc)
 
 ## Links
