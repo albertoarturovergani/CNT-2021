@@ -20,7 +20,8 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
     - synapse types
     - connections types
     - projections
-1. manage results
+3. simulation managing
+    - computational settings
     - save and load outputs
     - visualization tools
 
