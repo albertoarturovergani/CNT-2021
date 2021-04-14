@@ -31,6 +31,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - [1D persistent network](SpiNNaker/eg_1D_persistent-network.ipynb)
 - [1D diverging network](SpiNNaker/eg_1D_diverging-network.ipynb)
 - [1D small-world network](SpiNNaker/eg_1D_small-world-network)
+- [1D testing cell models](SpiNNaker/eg_1D_testing-cell-models.ipynb)
 
 ### topics for an advanced class (aka, what there's not in this tutorial)
 - bio-realistic neural network 
