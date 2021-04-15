@@ -30,7 +30,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - [1D decaying network](SpiNNaker/eg_1D_decaying-network.ipynb)
 - [1D persistent network](SpiNNaker/eg_1D_persistent-network.ipynb)
 - [1D diverging network](SpiNNaker/eg_1D_diverging-network.ipynb)
-- [1D small-world network](SpiNNaker/eg_1D_small-world-network)
+- [1D small-world network](SpiNNaker/eg_1D_small-world-network.ipynb)
 - [1D testing cell models network](SpiNNaker/eg_1D_testing-cell-models-network.ipynb)
 - [1D testing STDP model network](SpiNNaker/eg_1D_testing-STDP-model-network.ipynb)
 
