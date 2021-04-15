@@ -1,4 +1,5 @@
 # Computational Neuroscience Tutorial 2021
+# *Edition 1*
 
 Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
 
