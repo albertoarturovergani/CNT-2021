@@ -32,6 +32,8 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - [1D diverging network](SpiNNaker/eg_1D_diverging-network.ipynb)
 - [1D small-world network](SpiNNaker/eg_1D_small-world-network)
 - [1D testing cell models network](SpiNNaker/eg_1D_testing-cell-models-network.ipynb)
+- [1D testing STDP model network](eg_1D_testing-STDP-model-network.ipynb)
+
 
 ### topics for an advanced class (aka, what there's not in this tutorial)
 - bio-realistic neural network 
@@ -41,7 +43,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 
 ### knowledge assumptions: 
 
-- basis of spiking neural network theory
+- basis of spiking neural network theory (https://neuronaldynamics.epfl.ch/online/index.html)
 - familiarity with physical quatities related to electric circuits (e.g., voltages, conductances, currents, etc)
 - basic python coding (numpy, work with dictionaries, some matplotlib tools, etc)
 
@@ -56,9 +58,10 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - idealize the stimulus
 - run the simulation
 - save the results
-- close the simulations
 - recover the results
 - postprocessing (visualization, statistics, etc)
+- close the simulations
+
 
 ## Links
 - [PyNN](http://neuralensemble.org/docs/PyNN/index.html)
