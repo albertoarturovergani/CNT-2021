@@ -35,7 +35,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - [1D testing STDP model network](SpiNNaker/eg_1D_testing-STDP-model-network.ipynb)
 
 
-### topics for an advanced class (aka, what there's not in this tutorial)
+### topics for an advanced class 
 - bio-realistic neural network 
 - large scale computation
 - model replicaton (i.e., reproduce results from paper)
