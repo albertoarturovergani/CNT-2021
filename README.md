@@ -43,7 +43,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 
 ### knowledge assumptions: 
 
-- basis of spiking neural network theory (https://neuronaldynamics.epfl.ch/online/index.html)
+- basis of spiking neural network theory (https://neuronaldynamics.epfl.ch/online/index.html) or (https://neuromatch.io/academy/)
 - familiarity with physical quantities related to electric circuits (e.g., voltages, conductances, currents, etc)
 - basic python coding (numpy, work with dictionaries, some matplotlib tools, etc)
 
