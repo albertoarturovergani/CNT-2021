@@ -25,6 +25,9 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
     - save and load outputs
     - visualization tools
 
+### main notebook
+[CNT notebook](SpiNNaker/CNT_notebook.ipynb)
+
 ### network examples
 - [1D entry network](SpiNNaker/eg_1D_entry-network.ipynb)
 - [1D decaying network](SpiNNaker/eg_1D_decaying-network.ipynb)
