@@ -9,6 +9,11 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 1. clone this repository `git clone https://github.com/albertoarturovergani/CNT-2021`
 1. Open the directory `SpiNNaker/` and run the [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
+## Zoom link: 
+ https://univ-amu-fr.zoom.us/j/94280459110?pwd=b25zQytlQ1dIK0x2OTU5OXQ3dzFEZz09
+ 
+## contact: alberto.vergani@univ-amu.fr
+
 ## Content:
 
 ### SNNs design 
