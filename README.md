@@ -1,4 +1,5 @@
 # Computational Neuroscience Tutorial 2021
+## NeuroSchool PhD Program
 
 Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
 
@@ -16,7 +17,8 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 
 ## Content:
 
-### SNNs design 
+### overview for the design of Spiking Neural Networks (SNNs)
+
 1. neurons
     - cell types
     - populations
@@ -31,9 +33,11 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
     - visualization tools
 
 ### main notebook
+
 - [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
 ### network examples
+
 - [1D entry network](SpiNNaker/eg_1D_entry-network.ipynb)
 - [1D decaying network](SpiNNaker/eg_1D_decaying-network.ipynb)
 - [1D persistent network](SpiNNaker/eg_1D_persistent-network.ipynb)
@@ -44,6 +48,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 
 
 ### topics for an advanced class 
+
 - bio-realistic neural network 
 - large scale computation
 - model replicaton (i.e., reproduce results from paper)
@@ -56,6 +61,7 @@ Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker ne
 - basic python coding (numpy, work with dictionaries, some matplotlib tools, etc)
 
 ### expected take-home-points: 
+
 - import the simulator
 - setup the simulator
 - decide the cell types 
